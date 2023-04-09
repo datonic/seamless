@@ -1,0 +1,7 @@
+{
+    "name": "Seamless",
+    "build": {
+        "dockerfile": "../Dockerfile",
+        "context": ".."
+    }
+}
