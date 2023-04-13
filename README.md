@@ -1,5 +1,7 @@
 # :package: Seamless
 
+[![CI](https://github.com/datonic/seamless/actions/workflows/ci.yml/badge.svg)](https://github.com/datonic/seamless/actions/workflows/ci.yml)
+
 A minimal CLI to work with [Frictionless Data Packages](https://specs.frictionlessdata.io/).
 
 ## Installation
