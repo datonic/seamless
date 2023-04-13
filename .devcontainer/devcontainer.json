@@ -1,7 +1,4 @@
 {
     "name": "Seamless",
-    "build": {
-        "dockerfile": "../Dockerfile",
-        "context": ".."
-    }
+    "image": "mcr.microsoft.com/devcontainers/rust:bullseye"
 }
